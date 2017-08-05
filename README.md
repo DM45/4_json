@@ -10,10 +10,12 @@ Python 3.5
 
 Clone project from github and start it from concole (example for Windows 7):
 
-python pprint_json.py
-
-give a link to the file
-
+```bash
+python tests.py # python3 mb
+```
+```bash
+filepath of file
+```
 # Output example
 
         "Cells": {
