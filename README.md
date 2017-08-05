@@ -31,34 +31,7 @@ give a link to the file
             ],
             "TypeService": "реализация продовольственных товаров",
             "WorkingHours": [
-                {
-                    "DayOfWeek": "понедельник",
-                    "Hours": "09:30-22:30"
-                },
-                {
-                    "DayOfWeek": "вторник",
-                    "Hours": "09:30-22:30"
-                },
-                {
-                    "DayOfWeek": "среда",
-                    "Hours": "09:30-22:30"
-                },
-                {
-                    "DayOfWeek": "четверг",
-                    "Hours": "09:30-22:30"
-                },
-                {
-                    "DayOfWeek": "пятница",
-                    "Hours": "09:30-22:30"
-                },
-                {
-                    "DayOfWeek": "суббота",
-                    "Hours": "09:30-22:30"
-                },
-                {
-                    "DayOfWeek": "воскресенье",
-                    "Hours": "09:30-22:30"
-                }
+             
             ],
             "geoData": {
                 "coordinates": [
