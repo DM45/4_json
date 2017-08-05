@@ -14,7 +14,7 @@ def pretty_print_json(data):
 
 
 if __name__ == '__main__':
-    _filepath = str(input('Filepath of file: '))
+    _filepath = str(input('Filepath: '))
     json_data = load_json_data(_filepath)
     print('Pretty printed view of json file')
     print(pretty_print_json(json_data))
