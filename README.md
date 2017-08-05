@@ -9,7 +9,7 @@ Python 3.5
 # Quickstart
 
 Clone project from github and start it from concole (example for Windows 7):
-python 4_json.py
+python pprint_json.py
 give a link to the file
 
 # Output example
