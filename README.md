@@ -9,13 +9,13 @@ Python 3.5
 # Quickstart
 
 Clone project from github and start it from concole (example for Windows 7):
+
 python pprint_json.py
+
 give a link to the file
 
 # Output example
 
-[
-    {
         "Cells": {
             "Address": "улица Академика Павлова, дом 10",
             "AdmArea": "Западный административный округ",
@@ -42,9 +42,6 @@ give a link to the file
             },
             "global_id": 14371450
         },
-        "Id": "79742784-9ef3-4543-bc98-a219a8903c18",
-        "Number": 1
-    },
 
 # Project Goals
 
