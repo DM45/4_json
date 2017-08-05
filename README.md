@@ -11,7 +11,7 @@ Python 3.5
 Clone project from github and start it from concole (example for Windows 7):
 
 ```bash
-python tests.py # python3 mb
+python tests.py # or python3 maybe
 ```
 ```bash
 filepath of file
