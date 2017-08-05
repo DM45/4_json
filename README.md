@@ -1,16 +1,18 @@
 # Prettify JSON
 
-[TODO. Reading and processing using PrettyPrint files with the extension json]
+Change the view a json file with pretty print function.
+
+# Requirements
+
+Python 3.5
 
 # Quickstart
 
-[TODO]
+Clone project from github and start it from concole (example for Windows 7):
+python 4_json.py
+give a link to the file
 
-Example of script launch on Linux, Python 3.5:
-
-$ python pprint_json.py 
-
-# TODO add output example
+# Output example
 
 [
     {
