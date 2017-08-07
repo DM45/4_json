@@ -9,12 +9,12 @@ def load_json_data(filepath):
         return json.load(file_handler)
 
 
-def pretty_print_json(data):
-    return json.dumps(data, sort_keys=True, indent=4)
+def pretty_print_json(json_data):
+    return json.dumps(json_data, sort_keys=True, indent=4)
 
 
 if __name__ == '__main__':
     _filepath = str(input('Filepath: '))
-    json_data = load_json_data(_filepath)
+    _json_data = load_json_data(_filepath)
     print('Pretty printed view of json file')
-    print(pretty_print_json(json_data))
+    print(pretty_print_json(_json_data))
